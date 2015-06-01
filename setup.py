@@ -5,7 +5,7 @@ import sys
 
 from os.path import abspath, dirname, join
 
-from setuptools import setup
+from distutils.core import setup
 
 PROJECT_ROOT = abspath(dirname(__file__))
 with open(join(PROJECT_ROOT, 'README.rst')) as f:

@@ -23,7 +23,7 @@ separate repos. I figured I should have an authoritative source.
 Although I make changes based on my experience with TiVos, I expect that
 they're generally applicable. This version also includes patches found
 on the now-defunct (?) Launchpad repo of pyzeroconf, and elsewhere
-around the net -- not always well-documented, sorry.
+around the net -- not always well-documented sorry.
 
 Compatible with:
 

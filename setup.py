@@ -1,7 +1,7 @@
 #!/usr/bin/env python
-import sys
-
 from __future__ import absolute_import, division, print_function
+
+import sys
 
 from os.path import abspath, dirname, join
 

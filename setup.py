@@ -8,8 +8,8 @@ from os.path import abspath, dirname, join
 from distutils.core import setup
 
 PROJECT_ROOT = abspath(dirname(__file__))
-with open(join(PROJECT_ROOT, 'README.rst')) as f:
-    readme = f.read()
+#with open(join(PROJECT_ROOT, 'README.rst')) as f:
+#    readme = f.read()
 
 version = (
     [l for l in open(join(PROJECT_ROOT, 'zeroconf.py')) if '__version__' in l][0]
